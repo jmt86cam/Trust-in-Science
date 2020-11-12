@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Trust in Science - what data is reliable in a pandemic?
 
 You can use the [editor on GitHub](https://github.com/jmt86cam/Trust-in-Science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
