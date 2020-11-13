@@ -4,7 +4,7 @@ This project aims to explore where individuals, primarily at the University of C
 
 ### Link to the survey
 
-If you have not completed the survey and would like to do so, [you can follow this link](https://cambridge.eu.qualtrics.com/jfe/form/SV_094DWDvWZ3wpkax)
+If you have not completed the survey and would like to do so, [you can follow this link.](https://cambridge.eu.qualtrics.com/jfe/form/SV_094DWDvWZ3wpkax)
 
 ### Open source data and dashboards on the Covid-19 pandemic
 
@@ -21,4 +21,4 @@ If completing the survey has inspired you to go find more open source data to ke
 
 ### Research into peoples trust in Science
 
-Trust in Science is a topical issue and suffered a worrying decline in recent years. There is an abundance of resources available to find out more, here are just a few for you to check out:
+Trust in Science is a topical issue, there is an abundance of resources available to find out more, here are just a few for you to check out:
