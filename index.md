@@ -4,7 +4,7 @@ This project aims to explore where individuals, primarily at the University of C
 
 ### Link to the survey
 
-If you have not completed the survey and would like to do so, you can follow this link: https://cambridge.eu.qualtrics.com/jfe/form/SV_094DWDvWZ3wpkax
+If you have not completed the survey and would like to do so, [you can follow this link](https://cambridge.eu.qualtrics.com/jfe/form/SV_094DWDvWZ3wpkax)
 
 ### Open source data and dashboards on the Covid-19 pandemic
 
