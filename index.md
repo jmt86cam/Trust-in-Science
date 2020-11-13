@@ -11,13 +11,13 @@ If you have not completed the survey and would like to do so, you can follow thi
 If completing the survey has inspired you to go find more open source data to keep track of the pandemic then some useful resources may include:
 
 * [Google News: Coronavirus (Covid-19)](https://news.google.com/covid19/map?hl=en-GB&gl=GB&ceid=GB%3Aen)
-* earlyAlert: Global Common Operational Picture - Coronavirus (Covid-19 / 2019nCoV) - https://early-alert.maps.arcgis.com/apps/opsdashboard/index.html#/20bfbf89c8e74c0494c90b1ae0fa7b78
-* Baidu: Real-time update: map of the novel coronavirus pneumonia epidemic - https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3#tab4
-* WHO Coronavirus Disease (Covid-19) Dashboard - https://covid19.who.int/table
-* Covid-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at John Hopkins University (JHU) - https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-* European Centre for Disease Prevention and Control: Covid-19 Situation Dashboard - https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html#global-overview-tab
-* GOV.UK: Coronavirus (Covid-19) in the UK - https://coronavirus.data.gov.uk/
-* RIVM: Current information about COVID-19 (novel coronavirus) - https://www.rivm.nl/en/novel-coronavirus-covid-19/current-information
+* [earlyAlert: Global Common Operational Picture - Coronavirus (Covid-19 / 2019nCoV)](https://early-alert.maps.arcgis.com/apps/opsdashboard/index.html#/20bfbf89c8e74c0494c90b1ae0fa7b78)
+* [Baidu: Real-time update: map of the novel coronavirus pneumonia epidemic](https://voice.baidu.com/act/newpneumonia/newpneumonia/?from=osari_pc_3#tab4)
+* [WHO Coronavirus Disease (Covid-19) Dashboard](https://covid19.who.int/table)
+* [Covid-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at John Hopkins University (JHU)](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+* [European Centre for Disease Prevention and Control: Covid-19 Situation Dashboard](https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html#global-overview-tab)
+* [GOV.UK: Coronavirus (Covid-19) in the UK](https://coronavirus.data.gov.uk/)
+* [RIVM: Current information about COVID-19 (novel coronavirus)](https://www.rivm.nl/en/novel-coronavirus-covid-19/current-information)
 
 ### Research into peoples trust in Science
 
