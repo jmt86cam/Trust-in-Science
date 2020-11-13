@@ -1,37 +1,15 @@
-## Trust in Science - what data is reliable in a pandemic?
+## Trust in Science - what data do we rely on in a pandemic?
 
-You can use the [editor on GitHub](https://github.com/jmt86cam/Trust-in-Science/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This project aims to explore where individuals, primarily at the University of Cambridge and TU Delft, are finding the latest data on the Covid-19 pandemic. We designed a survey to be completed here and analysis of the results from this will be published at the end of the year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Link to the survey
 
-### Markdown
+If you have not completed the survey and would like to do so, you can follow this link: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Open source data and dashboards on the Covid-19 pandemic
 
-```markdown
-Syntax highlighted code block
+If completing the survey has inspired you to go find more open source data to keep track of the pandemic then some useful resources may include:
 
-# Header 1
-## Header 2
-### Header 3
+### Research into peoples trust in Science
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmt86cam/Trust-in-Science/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Trust in Science is a topical issue and suffered a worrying decline in recent years. To find out more about what is affecting peoples trust please do check out some of the research here:
