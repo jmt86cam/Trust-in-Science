@@ -17,6 +17,8 @@ If completing the survey has inspired you to go find more open source data to ke
 * [GOV.UK: Coronavirus (Covid-19) in the UK](https://coronavirus.data.gov.uk/)
 * [RIVM: Current information about COVID-19 (novel coronavirus)](https://www.rivm.nl/en/novel-coronavirus-covid-19/current-information)
 
+Finally, tableau have created their own [Data Hub for Covid-19](https://www.tableau.com/covid-19-coronavirus-data-resources?utm_campaign=Awareness-HCPHM-ALL-ANLYS-ALL-ALL&utm_medium=Vendor+Email&utm_source=Data+Science+Central&utm_campaign_id=2017049&utm_language=EN&utm_country=USCA&adgroup=DataScienceCentral.com+-+Sponsorship+-+2020&adused=DataScienceCentral.com+-+Email+-+COVID-19+Data+Hub+-+2020-11-04) where you can also learn to run some of your own analyses.
+
 ### Research into peoples trust in Science
 
 Trust in Science is a topical issue, there is an abundance of resources available to find out more, here are just a few for you to check out:
