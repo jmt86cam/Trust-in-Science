@@ -1,6 +1,6 @@
 ## Trust in Science - what data do we rely on in a pandemic?
 
-This project aims to explore where individuals, primarily at the University of Cambridge and TU Delft, are finding the latest data on the Covid-19 pandemic. We designed a survey to be completed here and analysis of the results from this will be published at the end of the year.
+This project aims to explore where individuals, primarily at the University of Cambridge and TU Delft, are finding the latest data on the Covid-19 pandemic. We designed a survey to be completed [here](https://cambridge.eu.qualtrics.com/jfe/form/SV_094DWDvWZ3wpkax) and analysis of the results from this will be published at the end of the year.
 
 ### Link to the survey
 
