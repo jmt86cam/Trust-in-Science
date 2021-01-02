@@ -38,8 +38,10 @@ The “Trust in Science” survey was sent out to individuals primarily at the U
 
 Participants were mostly between 25 and 34 years of age and held a degree (many at Masters level), which we expect from the demographic who were surveyed.
 
-![Pie chart showing the ages of participants](/images/AgeSummaryPie.png)
-![Pie chart showing education of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/EducationSummaryPie.png){:class="img-responsive"}
+{% include image.html file="AgeSummaryPie.png" alt="Pie chart showing the ages of participants" %}
+
+![Pie chart showing the ages of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/AgeSummaryPie.png)
+![Pie chart showing education of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/EducationSummaryPie.png)
 
 Also fitting with the demographic surveyed, most of the participants either produce and interpret their own data or others’. However when it comes to seeing data they still overwhelmingly preferred for it to be presented in a processed form and only a quarter downloaded data to interrogate it and come to their own conclusions.
 
