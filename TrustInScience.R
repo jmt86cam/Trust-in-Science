@@ -3,7 +3,7 @@
 # clear all the plots: dev.off()
 
 # Set where plots will be saved to:
-setwd("/Users/jonathantownson/Documents/PhD/BBSRC-DTP/PIPS/TU Delft/R plots from Trust in Science survey")
+setwd("Path/to/working/directory")
 
 #### Packages ####
 library(tidyr)
@@ -15,7 +15,7 @@ library(gridExtra)
 #### end ####
 
 #### Read in the data ####
-Surveydata <- read.csv("/Users/jonathantownson/Documents/PhD/BBSRC-DTP/PIPS/TU Delft/Trust in Science_15 December 2020_15.03.csv", na.strings=c(""," ","NA"))
+Surveydata <- read.csv("/location/of/survey/results.csv", na.strings=c(""," ","NA"))
 
 # Only work with completed data
 Surveydata <- subset(Surveydata,Finished == "True")
