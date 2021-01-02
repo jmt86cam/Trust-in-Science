@@ -36,9 +36,9 @@ Trust in Science is a topical issue, there is an abundance of resources availabl
 ### Survey participants
 The “Trust in Science” survey was sent out to individuals primarily at the University of Cambridge (70%), TU Delft (21%) and the people they work/interact with (8%), 84 complete responses were received in total. As such the participants can be viewed as representing a sector of society who work in research and implicitly have trust in the process and results. It is interesting to use this to see where they are getting their updates on the coronavirus pandemic and how much they trusted the information they received.
 
-Participants were mostly between 25 and 34 years of age and held a degree (many at Masters level), which we expect from the demographic who were surveyed.
+Participants were mostly between 25 and 34 years of age and held a degree (many at Masters level), which we expect from the demographic who were surveyed. c
 
-![Pie chart showing the ages of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/AgeSummaryPie.png)
+![Pie chart showing the ages of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/AgeSummaryPie.PNG)
 ![Pie chart showing education of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/EducationSummaryPie.png)
 
 Also fitting with the demographic surveyed, most of the participants either produce and interpret their own data or others’. However when it comes to seeing data they still overwhelmingly preferred for it to be presented in a processed form and only a quarter downloaded data to interrogate it and come to their own conclusions.
