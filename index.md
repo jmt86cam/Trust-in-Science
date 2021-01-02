@@ -32,10 +32,41 @@ Trust in Science is a topical issue, there is an abundance of resources availabl
 - [Risky Talk](https://riskytalk.libsyn.com/about) is a podcast presented by Prof Sir David Spiegelhalter. The podcast invites some of the world's foremost experts in risk and evidence communication to discuss practical challenges on how best to present risk and Scientific evidence meaningfully.
 - Baroness Onora O’Neill is a philosopher examining trust and how we judge trustworthiness to know where to put it. She has published [here](https://www.tandfonline.com/doi/full/10.1080/09672559.2018.1454637?casa_token=jNRQAZDCmY0AAAAA%3AR821ugQ4_0g-czQy4qPo3mC-CtLZZMYMsuTAmy14Fv0qb3uXzEIZcY7Qrh5ncg3_N_-70FXyQNlrRco) and also gave a [TED talk](https://www.ted.com/talks/onora_o_neill_what_we_don_t_understand_about_trust?language=en#t-573675) on what we don’t understand about trust.
 
-### Results of the survey
-## Survey participants
+## Results of the survey
+### Survey participants
 The “Trust in Science” survey was sent out to individuals primarily at the University of Cambridge (70%), TU Delft (21%) and the people they work/interact with (8%), 84 complete responses were received in total. As such the participants can be viewed as representing a sector of society who work in research and implicitly have trust in the process and results. It is interesting to use this to see where they are getting their updates on the coronavirus pandemic and how much they trusted the information they received.
 
 Participants were mostly between 25 and 34 years of age and held a degree (many at Masters level), which we expect from the demographic who were surveyed.
-![Pie chart showing the ages of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/AgeSummaryPie.png){:class="img-responsive"}
-![Pie chart showing education of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/EducationSummaryPie.png){:class="img-responsive"}
+
+![Pie chart showing the ages of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/AgeSummaryPie.png)
+![Pie chart showing education of participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/EducationSummaryPie.png)
+
+Also fitting with the demographic surveyed, most of the participants either produce and interpret their own data or others’. However when it comes to seeing data they still overwhelmingly preferred for it to be presented in a processed form and only a quarter downloaded data to interrogate it and come to their own conclusions.
+
+![Bar graph showing how many statements on data interaction were chosen](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/DataInteractionPlot.png)
+
+When accessing the latest information about the coronavirus pandemic, the surveyed group relied primarily on their government, newspapers and TV/radio news.
+
+![Bar graph showing sources of information used by participants](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/SourcePlot.png)
+
+Unsurprisingly, endorsements of policies from Scientific institutions was considered to be essential, beating national/government level organisations. Journalists/media, government and community were considered equally preferable, with community otherwise considered not at all important.
+
+![Multiple plots showing how valued endorsements are from different organisations](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/EndorsementsPlot.png)
+
+About a third of participants listed open source data/dashboards as one of their sources of information for coronavirus updates, most on a weekly basis. However, nearly a quarter don’t access open source data at all. 
+
+Reflecting where participants get their news from the open source data and dashboards from governments were the most accessed with the Wold Health Organisation being the next most popular site. 
+
+![Plot showing frequency of interaction with open source data and dashboards](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/OpenSourceFrequencyPlot.png)
+![Plot showing sources of open source data and dashboards used](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/OpenSourceSitesPlot.png)
+
+A quarter of participants do not see themselves using open source data more than they do already although more would do so if they had more time or were directed to open source data and dashboards more often.
+
+![Plot showing limiting factors for accessing open source data and dashboards](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/OpenSourceLimiterPlot.png)
+
+Confidence in the information that participants’ receive is extremely low, most believe there is bias in it and very few don’t question what they see.
+
+![Plot showing opinions on how biased information sources about pandemic are perceived](https://github.com/jmt86cam/Trust-in-Science/blob/main/images/SourceBiasPlot.png)
+
+### Summary
+This demographic is interesting because they generally work with data and are more familiar with the research process. It is interesting to see they rely on mainstream sources of information (newspapers/TV) but believe it is biased. Surprisingly few access open source data/dashboards, having more time would change this and it seems therefore they rely on what they have easy access to and treat that with a certain degree of scepticism.
